@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://mastersk3.github.io
+title: The Unsticky Marketer
+tagline: Someone has to break the sticky content norm.
+description: I am Sravan Kumar and this is my thought log.
+paginate: 5
